@@ -5,7 +5,12 @@ The idea here is very simple - ffmpeg can do a lot of things. Lets expose purpos
 
 ## Getting started
 
-`$ npm install react-native-ffmpeg --save`
+`$ npm install react-native-ffmpeg --save
+
+$ yarn add git@github.com:t-web/react-native-ffmpeg.git
+
+
+`
 
 ### Mostly automatic installation
 

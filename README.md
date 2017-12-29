@@ -7,7 +7,7 @@ The idea here is very simple - ffmpeg can do a lot of things. Lets expose purpos
 
 `$ npm install react-native-ffmpeg --save
 
-$ yarn add git@github.com:t-web/react-native-ffmpeg.git
+$ npm install git+https://github.com/t-web/react-native-ffmpeg.git
 
 
 `
